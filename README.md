@@ -59,8 +59,15 @@ This program helps students practice basic programming concepts such as loops, c
     Association for Computing Machinery and the
     ACM Code of Ethics and Professional Conduct, which promote responsible and ethical computing practices.
 
+# References (APA Format)
 
+    Example:
+
+    Association for Computing Machinery. (2018). ACM code of ethics and professional conduct.
+	https://www.acm.org/code-of-ethics
+	
 # How to Run the Program
+	
 	1.	Install Python (if not already installed).
 	2.	Download or clone this repository.
 	3.	Open the folder in a terminal.
@@ -74,6 +81,7 @@ This program helps students practice basic programming concepts such as loops, c
     • Future improvements may include adding discounts or saving receipts
 
 # Contributors
+	
 	•	Jude Christian A. Carcasona
 	•	Rhiane Caye N. Salubre
 	•	Venice Richzyl Mae T. Alquizar
