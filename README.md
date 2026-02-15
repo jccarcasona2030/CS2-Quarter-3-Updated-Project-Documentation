@@ -34,15 +34,15 @@ school-lunch-calculator/
 Python was chosen for its simplicity and readability, making the program easy to understand and maintain.
 
 
-# Methodology
+## Methodology
 
-How Core Features Were Implemented
+# How Core Features Were Implemented
 	•	A list was used to store item prices.
 	•	A while loop keeps the program running until the user exits.
 	•	Conditional statements (if-elif-else) control menu choices.
 	•	The built-in sum() function calculates the total cost.
 
-Key Design Decisions
+# Key Design Decisions
 	•	The program uses a simple text-based interface to keep it beginner-friendly.
 	•	Data is stored temporarily in a list instead of a database for simplicity.
 	•	The menu system allows repeated actions without restarting the program.
