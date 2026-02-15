@@ -1,4 +1,4 @@
-# CS2-Quarter-3-Updated-Project-Documentation
+ # CS2-Quarter-3-Updated-Project-Documentation
 Updated Project Documentation
 
 School Lunch Price Calculator
@@ -19,10 +19,10 @@ This program helps students practice basic programming concepts such as loops, c
 
 # Revised File Structure
 
-school-lunch-calculator/
-│
-├── main.py
-└── README.md
+    school-lunch-calculator/
+    │
+    ├── main.py
+    └── README.md
 
 # File Description:
 	•	main.py – Contains the main program logic, menu system, and price calculations.
@@ -31,7 +31,7 @@ school-lunch-calculator/
 # Technologies Used
 	•	Python – Used to build the console-based calculator because it is beginner-friendly and ideal for practicing basic programming logic.
 
-Python was chosen for its simplicity and readability, making the program easy to understand and maintain.
+    Python was chosen for its simplicity and readability, making the program easy to understand and maintain.
 
 
 ## Methodology
@@ -49,15 +49,15 @@ Python was chosen for its simplicity and readability, making the program easy to
 
 # Programming and Computing Ethics
 
-In developing this project, we ensured:
-	•	Original code was written by the group.
-	•	No copyrighted code was copied without permission.
-	•	Proper credit is given if external references were used.
-	•	The program does not collect or store personal user data.
+    In developing this project, we ensured:
+	    •	Original code was written by the group.
+	    •	No copyrighted code was copied without permission.
+	    •	Proper credit is given if external references were used.
+	    •	The program does not collect or store personal user data.
 
-This aligns with principles from the
-Association for Computing Machinery and the
-ACM Code of Ethics and Professional Conduct, which promote responsible and ethical computing practices.
+    This aligns with principles from the
+    Association for Computing Machinery and the
+    ACM Code of Ethics and Professional Conduct, which promote responsible and ethical computing practices.
 
 
 # How to Run the Program
