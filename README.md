@@ -70,10 +70,10 @@ python main.py
 
 # Current Progress Status
 
-• Core features completed
-• Menu system functional
-• Total calculation working
-• Future improvements may include adding discounts or saving receipts
+    • Core features completed
+    • Menu system functional
+    • Total calculation working
+    • Future improvements may include adding discounts or saving receipts
 
 # Contributors
 	•	Jude Christian A. Carcasona
