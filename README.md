@@ -66,8 +66,6 @@ This program helps students practice basic programming concepts such as loops, c
 	3.	Open the folder in a terminal.
 	4.	Run:
 
-python main.py
-
 # Current Progress Status
 
     • Core features completed
@@ -79,4 +77,3 @@ python main.py
 	•	Jude Christian A. Carcasona
 	•	Rhiane Caye N. Salubre
 	•	Venice Richzyl Mae T. Alquizar
-main.py
